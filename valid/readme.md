@@ -1,3 +1,3 @@
 # Valid
 
-The directory contains Validation Set of the dataset
+The directory contains the training set of the dataset
