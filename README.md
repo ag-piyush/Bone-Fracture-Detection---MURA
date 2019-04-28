@@ -4,7 +4,7 @@ This repository contains a Keras implementation of a 169 layer Densenet Model on
 
 
 
-You can train the model with run_MURA.py
+You can train the model with mura.py
 
 You can load the model with model_test.py
 To get these particular graphs run the particular files:
