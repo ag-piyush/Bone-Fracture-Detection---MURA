@@ -12,7 +12,19 @@ You can load the model with [**model_test.py**](https://github.com/ag-piyush/Bon
 
 To get these particular graphs run the particular files:
 1. Training Accuracy: [**plot_results_train_acc.py**](https://github.com/ag-piyush/Bone-Fracture-Detection---MURA/blob/master/plot_results_train_acc.py)
+![Training Accuracy](https://github.com/ag-piyush/Bone-Fracture-Detection---MURA/blob/master/figures/plot_MURA_train_acc.jpg)
+
 2. Training loss: [**plot_results_train_loss.py**](https://github.com/ag-piyush/Bone-Fracture-Detection---MURA/blob/master/plot_results_train_loss.py)
+![Training Loss](https://github.com/ag-piyush/Bone-Fracture-Detection---MURA/blob/master/figures/plot_MURA_train_loss.jpg)
+
 3. Validation Accuracy: [**plot_results_valid_acc.py**](https://github.com/ag-piyush/Bone-Fracture-Detection---MURA/blob/master/plot_results_valid_acc.py)
+![Validation Accuracy](https://github.com/ag-piyush/Bone-Fracture-Detection---MURA/blob/master/figures/plot_MURA_valid_acc.jpg)
+
 4. Validation Loss: [**plot_results_valid_loss.py**](https://github.com/ag-piyush/Bone-Fracture-Detection---MURA/blob/master/plot_results_valid_loss.py)
+![Validation Loss](https://github.com/ag-piyush/Bone-Fracture-Detection---MURA/blob/master/figures/plot_MURA_valid_loss.jpg)
+
+
+
+
+
 
