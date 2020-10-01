@@ -10,7 +10,7 @@ You can train the model with [**mura.py**](https://github.com/ag-piyush/Bone-Fra
 
 You can load the model with [**model_test.py**](https://github.com/ag-piyush/Bone-Fracture-Detection---MURA/blob/master/model_test.py).
 
-To get these particular graphs run the particular files:
+To get these particular graphs run the following files:
 1. Training Accuracy: [**plot_results_train_acc.py**](https://github.com/ag-piyush/Bone-Fracture-Detection---MURA/blob/master/plot_results_train_acc.py)
 
 ![Training Accuracy](https://github.com/ag-piyush/Bone-Fracture-Detection---MURA/blob/master/figures/plot_MURA_train_acc.jpg)
